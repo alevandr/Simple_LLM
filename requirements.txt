@@ -1,7 +1,8 @@
 torch >= 2.2.2
-tiktoken >= 0.5.1       
+tiktoken >= 0.5.1
 tensorflow >= 2.18.0
-tqdm >= 4.66.1  
+tqdm >= 4.66.1
 numpy >= 1.26
-psutil >= 5.9.5   
+psutil >= 5.9.5
+matplotlib >= 3.7.1
 chainlit >= 2.7.2
